@@ -5,10 +5,11 @@ export default function Footer({ technologies }) {
     "Next.js",
     "Tailwind",
     "Git",
+    "Vercel"
   ];
   return (
     <footer className="flex max-w-content mt-20 mx-auto px-4 py-8 text-center text-gray-500">
-      <p>&copy; {new Date().getFullYear()} Jeff Garris. Built with</p>
+      <p>&copy; {new Date().getFullYear()} Jeff Garris. Built and deployed with</p>
       <div className="flex flex-wrap align-items-center gap-2 ml-2">
         {technologies
           .filter(({ label }) => technologiesUsed.includes(label))

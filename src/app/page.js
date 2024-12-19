@@ -13,7 +13,7 @@ import {
     FaVuejs,
     FaGitAlt
   } from "react-icons/fa";
-  import { SiNextdotjs, SiJquery, SiTailwindcss, SiSass } from "react-icons/si";
+  import { SiNextdotjs, SiJquery, SiTailwindcss, SiSass, SiVercel } from "react-icons/si";
   
 const technologies = [
     { icon: FaJsSquare, color: "#F7DF1E", label: "JavaScript" },
@@ -25,6 +25,7 @@ const technologies = [
     { icon: SiTailwindcss, color: "#06B6D4", label: "Tailwind" },
     { icon: FaVuejs, color: "#42B883", label: "Vue.js" },
     { icon: FaGitAlt, color: "#F05032", label: "Git" },
+    { icon: SiVercel, color: "#000000", label: "Vercel" },
 ];
 
 export default function Home() {

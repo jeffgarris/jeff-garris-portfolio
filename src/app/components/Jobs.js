@@ -1,8 +1,10 @@
+import Title from "./Title";
 import Image from "next/image"
 import ryderLogo from "@public/images/ryder-logo.png"
 import perficientDigitalLogo from "@public/images/perficient-digital-logo.png"
 import IgniteXDSLogo from "@public/images/ignite-xds-logo.png"
 import InterpollsLogo from "@public/images/interpolls-logo.png"
+
 export default function Jobs() {
   const jobs = [
     {
@@ -60,7 +62,8 @@ export default function Jobs() {
   ];
 
   return (
-    <section className="w-full mt-8 space-y-10">
+    <section className="w-full mt-20 space-y-8">
+      <Title title="what has this guy been up to?" />
       {jobs.map((job, i) => {
         const {
           image,

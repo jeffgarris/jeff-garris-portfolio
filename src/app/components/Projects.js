@@ -35,8 +35,10 @@ export default function Projects() {
     },
   ];
 
-  return (
-    <section className="grid grid-cols-3 gap-4 mt-8">
+  return (    
+    <section className="mt-20">
+      <Title title="it's not work if you love it" />
+      <div className="grid grid-cols-3 gap-4 mt-8">
       {projects.map((project, i) => {
         const { image, url, title, description } = project;
         return (
@@ -47,7 +49,7 @@ export default function Projects() {
             rel="noopener noreferrer"
             className="transition duration-200 opacity-90 hover:opacity-100"
           >
-            <div className="border rounded-lg shadow-sm overflow-hidden h-80">
+            <div className="border rounded-lg shadow-sm overflow-hidden h-72">
               <div
                 className="w-full h-40 bg-cover bg-center"
                 style={{ backgroundImage: `url(${image.src})` }}
@@ -62,6 +64,7 @@ export default function Projects() {
           </a>
         );
       })}
+      </div>
     </section>
   );
 }

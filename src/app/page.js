@@ -31,12 +31,9 @@ export default function Home() {
   return (
     <div className="bg-zinc-900 to-zinc-900 min-h-screen">
       <main className="max-w-content mx-auto px-4 py-8 font-sans">
-        <Header />
-        <Title title="whatcha workin' with?" />
+        <Header />        
         <Technologies technologies={technologies} />
-        <Title title="it's not work if you love it" />
         <Projects />
-        <Title title="what has this guy been up to?" />
         <Jobs />
       </main>
       <Footer technologies={technologies} />

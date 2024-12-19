@@ -6,6 +6,7 @@ export default function Header() {
       <div className="flex">
         <img
           src="https://jeffgarris.com/images/jeff-garris-headshot.jpg"
+          alt="Jeff Garris headshot"
           className="w-40 h-40 rounded-full"
         ></img>
         <div className="px-4">

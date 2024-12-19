@@ -67,9 +67,8 @@ export default function Jobs() {
         } = job;
         return (
           <div key={i} className="bg-zinc-800 rounded-lg shadow-sm">
-            {/* <img src={image} /> */}
             <div className="p-9">
-              <img className="w-auto h-8 mr-2 mb-2" src={image} />
+              <img alt={company} className="w-auto h-8 mr-2 mb-2" src={image} />
               <p className="text-lg font-semibold text-white">{timeframe}</p>
               <p className="text-sm text-gray-300">{description}</p>
               <p className="pt-6 text-md text-gray-100">{role}</p>

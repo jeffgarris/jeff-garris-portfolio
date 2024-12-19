@@ -1,7 +1,12 @@
+import Image from "next/image"
+import ryderLogo from "@public/images/ryder-logo.png"
+import perficientDigitalLogo from "@public/images/perficient-digital-logo.png"
+import IgniteXDSLogo from "@public/images/ignite-xds-logo.png"
+import InterpollsLogo from "@public/images/interpolls-logo.png"
 export default function Jobs() {
   const jobs = [
     {
-      image: "https://jeffgarris.com/images/ryder-logo.png",
+      image: ryderLogo,
       company: "Ryder",
       timeframe: "Nov 2019 - Dec 2024",
       description: "Logistics leader specializing in supply chain solutions",
@@ -14,7 +19,7 @@ export default function Jobs() {
       ],
     },
     {
-      image: "https://jeffgarris.com/images/perficient-digital-logo.png",
+      image: perficientDigitalLogo,
       company: "Perficient Digital",
       timeframe: "Nov 2015 - Nov 2019",
       description:
@@ -27,7 +32,7 @@ export default function Jobs() {
       ],
     },
     {
-      image: "https://jeffgarris.com/images/ignite-xds-logo.png",
+      image: IgniteXDSLogo,
       company: "Ignite XDS",
       timeframe: "May 2014 - Sep 2015",
       description:
@@ -40,7 +45,7 @@ export default function Jobs() {
       ],
     },
     {
-      image: "https://jeffgarris.com/images/interpolls-logo.png",
+      image: InterpollsLogo,
       company: "Interpolls",
       timeframe: "Jan 2009 - Feb 2014",
       description: "Innovator in interactive online advertising campaigns",
@@ -68,7 +73,7 @@ export default function Jobs() {
         return (
           <div key={i} className="bg-zinc-800 rounded-lg shadow-sm">
             <div className="p-9">
-              <img alt={company} className="w-auto h-8 mr-2 mb-2" src={image} />
+              <Image src={image} quality={100} alt={company} className="w-auto h-8 mr-2 mb-2" />
               <p className="text-lg font-semibold text-white">{timeframe}</p>
               <p className="text-sm text-gray-300">{description}</p>
               <p className="pt-6 text-md text-gray-100">{role}</p>

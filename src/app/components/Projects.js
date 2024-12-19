@@ -1,27 +1,33 @@
+import Title from "./Title";
+import wordCounter from "@public/images/project-word-counter.png"
+import doodleGrid from "@public/images/project-doodle-grid.png"
+import simon from "@public/images/project-simon.png"
+import patternGame from "@public/images/project-pattern-game.png"
+
 export default function Projects() {
   const projects = [
     {
-      image: "https://jeffgarris.com/images/project-word-counter.png",
+      image: wordCounter,
       url: "https://codesandbox.io/p/sandbox/zen-meadow-5hx8vg",
       title: "Word Counter",
       description: "Enter your script and get the word, character, etc. count.",
     },
     {
-      image: "https://jeffgarris.com/images/project-doodle-grid.png",
+      image: doodleGrid,
       url: "https://codepen.io/jeffgarris/pen/Zjgvdx",
       title: "Doodle Grid",
       description:
         "A creative app for drawing grid-based designs. Responsive and fun.",
     },
     {
-      image: "https://jeffgarris.com/images/project-simon.png",
+      image: simon,
       url: "https://codepen.io/jeffgarris/pen/RzKZwx",
       title: "Simon",
       description:
         "I rebuilt the classic game of Simon. You know... because what not?",
     },
     {
-      image: "https://jeffgarris.com/images/project-pattern-game.png",
+      image: patternGame,
       url: "https://codepen.io/jeffgarris/pen/GRdxOMy",
       title: "Pattern Game",
       description:
@@ -44,7 +50,7 @@ export default function Projects() {
             <div className="border rounded-lg shadow-sm overflow-hidden h-80">
               <div
                 className="w-full h-40 bg-cover bg-center"
-                style={{ backgroundImage: `url(${image})` }}
+                style={{ backgroundImage: `url(${image.src})` }}
               ></div>
               <div className="py-3 px-4">
                 <h3 className="pb-3 text-lg font-semibold text-white">

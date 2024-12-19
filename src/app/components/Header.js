@@ -1,14 +1,17 @@
 import Button from "./Button";
+import Image from "next/image"
+import JeffGarrisHeadshot from "@public/images/jeff-garris-headshot.jpg"
 
 export default function Header() {
   return (
     <header className="mt-8">
       <div className="flex">
-        <img
-          src="https://jeffgarris.com/images/jeff-garris-headshot.jpg"
+        <Image
+          src={JeffGarrisHeadshot}
+          quality={50}
           alt="Jeff Garris headshot"
           className="w-40 h-40 rounded-full"
-        ></img>
+        />
         <div className="px-4">
           <h1 className="text-8xl text-white font-bold uppercase">
             Jeff Garris
@@ -25,7 +28,7 @@ export default function Header() {
           <Button
             text="Resumé"
             target="_blank"
-            href="https://jeffgarris.com/jeff-garris-frontend-web-developer-resume.pdf"
+            href="/images/jeff-garris-frontend-web-developer-resume.pdf"
           ></Button>
         </div>
       </div>

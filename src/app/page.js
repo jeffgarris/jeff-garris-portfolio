@@ -21,11 +21,11 @@ const technologies = [
     { icon: FaHtml5, color: "#E34F26", label: "HTML5" },
     { icon: SiSass, color: "#CC6699", label: "SCSS" },
     { icon: FaReact, color: "#61DAFB", label: "React" },
-    { icon: SiNextdotjs, color: "#000000", label: "Next.js" },
+    { icon: SiNextdotjs, color: "#FFFFFF", label: "Next.js" },
     { icon: SiTailwindcss, color: "#06B6D4", label: "Tailwind" },
     { icon: FaVuejs, color: "#42B883", label: "Vue.js" },
     { icon: FaGitAlt, color: "#F05032", label: "Git" },
-    { icon: SiVercel, color: "#000000", label: "Vercel" },
+    { icon: SiVercel, color: "#FFFFFF", label: "Vercel" },
 ];
 
 export default function Home() {

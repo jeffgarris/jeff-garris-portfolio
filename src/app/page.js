@@ -1,5 +1,4 @@
 import Header from "./components/Header";
-import Title from "./components/Title";
 import Technologies from "./components/Technologies";
 import Projects from "./components/Projects";
 import Jobs from "./components/Jobs";

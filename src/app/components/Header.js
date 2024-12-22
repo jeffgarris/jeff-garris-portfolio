@@ -13,10 +13,10 @@ export default function Header() {
           className="w-40 h-40 rounded-full"
         />
         <div className="px-4">
-          <h1 className="text-8xl text-white font-bold uppercase">
+          <h1 className="text-3xl sm:text-6xl md:text-7xl text-white font-bold uppercase">
             Jeff Garris
           </h1>
-          <h2 className="text-2xl text-white uppercase tracking-widest">
+          <h2 className="text-xs sm:text-xl md:text-2xl text-white uppercase tracking-widest">
             Frontend Web Developer
           </h2>
           <p className="py-4 text-gray-400 text-md">

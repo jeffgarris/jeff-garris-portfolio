@@ -62,7 +62,7 @@ export default function Jobs() {
   ];
 
   return (
-    <section className="w-full mt-20">
+    <section className="w-full mt-12 sm:mt-20">
       <Title title="what has this guy been up to?" />
       <div className="mt-4 sm:mt-8 space-y-8">
         {jobs.map((job, i) => {

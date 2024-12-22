@@ -2,9 +2,9 @@ import Title from "./Title";
 
 export default function Technologies({ technologies }) {
   return (
-    <section className="w-full mt-20 space-y-10">
+    <section className="w-full mt-20">
       <Title title="whatcha workin' with?" />
-      <div className="flex flex-wrap align-items-center gap-8 mt-8">
+      <div className="flex flex-wrap align-items-center gap-8 mt-4 sm:mt-8">
         {technologies.map((tech, index) => {
           const { icon: Icon, color, label } = tech;
           return (

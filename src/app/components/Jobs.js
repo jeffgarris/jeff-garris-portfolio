@@ -62,35 +62,37 @@ export default function Jobs() {
   ];
 
   return (
-    <section className="w-full mt-20 space-y-8">
+    <section className="w-full mt-20">
       <Title title="what has this guy been up to?" />
-      {jobs.map((job, i) => {
-        const {
-          image,
-          company,
-          timeframe,
-          description,
-          role,
-          responsibilities,
-        } = job;
-        return (
-          <div key={i} className="bg-zinc-800 rounded-lg shadow-sm">
-            <div className="p-9">
-              <Image src={image} quality={100} alt={company} className="w-auto h-8 mr-2 mb-2" />
-              <p className="text-lg font-semibold text-white">{timeframe}</p>
-              <p className="text-sm text-gray-300">{description}</p>
-              <p className="pt-6 text-md text-gray-100">{role}</p>
-              <ul>
-                {responsibilities.map((responsibility, i) => (
-                  <li key={i} className="pt-2 text-gray-400 list-none">
-                    {responsibility}
-                  </li>
-                ))}
-              </ul>
+      <div className="mt-4 sm:mt-8 space-y-8">
+        {jobs.map((job, i) => {
+          const {
+            image,
+            company,
+            timeframe,
+            description,
+            role,
+            responsibilities,
+          } = job;
+          return (
+            <div key={i} className="bg-zinc-800 rounded-lg shadow-sm">
+              <div className="p-9">
+                <Image src={image} quality={100} alt={company} className="w-auto h-8 mr-2 mb-2" />
+                <p className="text-lg font-semibold text-white">{timeframe}</p>
+                <p className="text-sm text-gray-300">{description}</p>
+                <p className="pt-6 text-md text-gray-100">{role}</p>
+                <ul>
+                  {responsibilities.map((responsibility, i) => (
+                    <li key={i} className="pt-2 text-gray-400 list-none">
+                      {responsibility}
+                    </li>
+                  ))}
+                </ul>
+              </div>
             </div>
-          </div>
-        );
-      })}
+          );
+        })}
+      </div>
     </section>
   );
 }

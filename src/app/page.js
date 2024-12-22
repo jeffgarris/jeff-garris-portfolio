@@ -30,7 +30,7 @@ const technologies = [
 export default function Home() {
   return (
     <div className="bg-zinc-900 to-zinc-900 min-h-screen">
-      <main className="max-w-content mx-auto px-4 py-8 font-sans">
+      <main className="max-w-content mx-auto px-8 sm:px-4 py-8 font-sans">
         <Header />        
         <Technologies technologies={technologies} />
         <Projects />

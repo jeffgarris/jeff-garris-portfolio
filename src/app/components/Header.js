@@ -23,17 +23,26 @@ export default function Header() {
       </div>
         
       <div>
-        <p className="py-4 text-gray-400 text-sm sm:text-base">
+        <p className="py-4 text-gray-200 text-sm sm:text-lg">
           Frontend Web Developer with over 15 years of experience; including
           new builds, redesigns, maintenance, and custom solutions. Passionate
           about intuitive and efficient user flows and functionality. Thrives
           in a collaborative environment.
         </p>
-        <Button
-          text="Resumé"
-          target="_blank"
-          href="/images/jeff-garris-frontend-web-developer-resume.pdf"
-        ></Button>
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
+          <Button
+            text="Resume"
+            target="_blank"
+            href="/images/jeff-garris-frontend-web-developer-resume.pdf"
+            bgcolor="bg-blue-500"
+          ></Button>
+          <Button
+            text="Github"
+            target="_blank"
+            href="https://github.com/jeffgarris"
+            bgcolor="bg-gray-600"
+          ></Button>
+        </div>
       </div>
     </header>
   );

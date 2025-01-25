@@ -80,10 +80,10 @@ export default function Jobs() {
                 <Image src={image} quality={100} alt={company} className="w-auto h-8 mr-2 mb-2" />
                 <p className="text-lg font-semibold text-white">{timeframe}</p>
                 <p className="text-sm text-gray-300">{description}</p>
-                <p className="pt-6 text-md text-gray-100">{role}</p>
+                <p className="pt-6 text-md font-bold text-gray-100">{role}</p>
                 <ul>
                   {responsibilities.map((responsibility, i) => (
-                    <li key={i} className="pt-2 text-gray-400 list-none">
+                    <li key={i} className="pt-2 text-gray-300 list-none">
                       {responsibility}
                     </li>
                   ))}

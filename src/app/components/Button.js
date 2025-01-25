@@ -1,4 +1,4 @@
-export default function Button({ text, href, target }) {
+export default function Button({ text, bgcolor, href, target }) {
   const rel = target === "_blank" ? "noopener noreferrer" : undefined;
 
   return (
@@ -7,7 +7,7 @@ export default function Button({ text, href, target }) {
       href={href}
       target={target}
       rel={rel}
-      className="inline-block mt-2 px-12 py-2 bg-blue-500 text-white rounded-sm shadow hover:bg-blue-600 uppercase"
+      className={`${bgcolor} hover:bg-opacity-70 duration-300 text-center text-white inline-block mt-2 py-2 rounded-full shadow uppercase`}
     >
       {text}
     </a>

@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+amplifiedapparel.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+amplifiedapparel.com	TRUE	/	FALSE	1999999999	_shopify_y	73ddcf98-e71c-41f2-87c3-5950a576f0d2
+amplifiedapparel.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+amplifiedapparel.com	TRUE	/	FALSE	1999999999	_shopify_country	United+States
+fancy.com	TRUE	/	FALSE	1999999999	lang	en-us
+fancy.com	TRUE	/	FALSE	1999999999	fh_seed	10
+

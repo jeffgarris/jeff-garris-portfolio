@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://amplifiedapparel.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://amplifiedapparel.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://amplifiedapparel.com/blogs/news/tagged/blues.atom"/>
+  <title>Amplified Apparel - Amplified Apparel Blog</title>
+  <updated>2018-03-17T12:44:00-04:00</updated>
+  <author>
+    <name>Amplified Apparel</name>
+  </author>
+  <entry>
+    <id>https://amplifiedapparel.com/blogs/news/stevie-ray-vaughan-27-years-gone</id>
+    <published>2017-08-27T00:05:00-04:00</published>
+    <updated>2018-02-26T12:13:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://amplifiedapparel.com/blogs/news/stevie-ray-vaughan-27-years-gone"/>
+    <title>Stevie Ray Vaughan: 27 Years Gone</title>
+    <author>
+      <name>Jeff Garris</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><iframe width="560" height="315" src="https://www.youtube.com/embed/PD1WiLQqWLs" frameborder="0" allowfullscreen=""></iframe></p>
+<p>August 27, 1990 was a tragic day for the world of music; the day that Stevie Ray Vaughan boarded a helicopter that would never make it out of Alpine Valley in East Troy, WI. The helicopter crashed into a hill in dense fog around midnight following a concert. SRV, 3 of Eric Clapton's entourage, and the pilot, were all killed. I can only wonder and imagine what Stevie would be up to these days if he were still around.</p>
+<p>I didn't know who Stevie was until I was around 20 years old, but he changed everything for me. Here's a little of the story about how I discovered him, as I told it on Instagram last year on what would have been his 62nd birthday.</p>
+<p><span>"The first time that I heard one of Stevie's songs was while I was working at Chili's, circa 1997. "Pride and Joy" was one of the songs on one of our compilation CD's that played throughout the restaurant. I still remember right where I was, bussing a table, when it came on. I had never listened to the blues or anything directly influenced by it before. I was very much into 90's rock at the time. But that song changed everything; I was hooked. Thank you, Stevie, for opening up my world."</span></p>
+<p><span>I'll definitely be listening to some Stevie Ray Vaughan and Double Trouble in honor of SRV. If you haven't discovered his music yet, I highly recommend that you do so immediately. </span></p>
+<p><span>P.S. I couldn't find the actual video footage of the video above, but it's really worth a watch. It's "Leave My Little Girl Alone" from the 1989 Austin City Limits show. Enjoy!</span></p>]]>
+    </content>
+  </entry>
+</feed>

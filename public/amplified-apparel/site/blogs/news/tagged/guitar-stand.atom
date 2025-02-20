@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://amplifiedapparel.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://amplifiedapparel.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://amplifiedapparel.com/blogs/news/tagged/guitar-stand.atom"/>
+  <title>Amplified Apparel - Amplified Apparel Blog</title>
+  <updated>2018-03-17T12:44:00-04:00</updated>
+  <author>
+    <name>Amplified Apparel</name>
+  </author>
+  <entry>
+    <id>https://amplifiedapparel.com/blogs/news/the-personal-guitar-workshop</id>
+    <published>2017-08-25T12:24:00-04:00</published>
+    <updated>2017-08-25T12:24:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://amplifiedapparel.com/blogs/news/the-personal-guitar-workshop"/>
+    <title>The Personal Guitar Workshop</title>
+    <author>
+      <name>Jeff Garris</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Now this is an invention that I can get behind. Even when I was playing guitar every day, all day (back when I was young and single), I probably only changed my strings like once every six months. I know, I know. But no matter how often you change them, it's a pain in the ass. You have to try to hold your guitar between your legs and position it just right. Maybe lay it on your lap and try not to drop it on the ground while pushing in the bridge pins on your acoustic. There has to be a better way, right? Well, now there is! Or at least there could be...</p>
+<p>Enter the Personal Guitar Workshop; a new <a href="https://www.kickstarter.com/projects/1798347341/maintaining-with-ease-displaying-with-pride" target="_blank" title="The Personal Guitar Workshop Kickstarter Campaign" rel="noopener noreferrer">Kickstarter campaign</a> by founder/inventor Dave Sommerfield. The idea was to create "a device that would make caring for our beloved instruments easier." I believe that it will do just that.</p>
+<p>The awesome part is that it doesn't matter if you play acoustic or electric guitar, it will work for both. It also doubles (or triples?) as a guitar stand! Pretty sweet if you ask me. If you're feeling inspired and generous go check out the <a href="https://www.kickstarter.com/projects/1798347341/maintaining-with-ease-displaying-with-pride" target="_blank" title="Support the Personal Guitar Workshop Kickstarter Campaign" rel="noopener noreferrer">project</a> and become a supporter.</p>]]>
+    </content>
+  </entry>
+</feed>

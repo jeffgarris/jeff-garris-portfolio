@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://amplifiedapparel.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://amplifiedapparel.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://amplifiedapparel.com/blogs/news/tagged/hearts.atom"/>
+  <title>Amplified Apparel - Amplified Apparel Blog</title>
+  <updated>2018-03-17T12:44:00-04:00</updated>
+  <author>
+    <name>Amplified Apparel</name>
+  </author>
+  <entry>
+    <id>https://amplifiedapparel.com/blogs/news/cupids-guitar-leggings-for-women</id>
+    <published>2018-02-18T16:29:00-05:00</published>
+    <updated>2018-02-18T16:34:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://amplifiedapparel.com/blogs/news/cupids-guitar-leggings-for-women"/>
+    <title>Guitar Leggings for Women Are Here!</title>
+    <author>
+      <name>Jeff Garris</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<p><span>Leggings are the hottest fashion trend right now and we're making them even hotter by adding guitars to them. We've added our first design to the store to make sure that our customers have what they need to fill out their rockin' wardrobe.</span></p>
+<p><span>Our first <a href="https://amplifiedapparel.com/collections/leggings/products/cupids-guitar-leggings" title="Guitar Leggings for Women">guitar leggings</a> design features a guitar-pierced heart on a dark grey background.</span></p><p><a class="read-more" href="https://amplifiedapparel.com/blogs/news/cupids-guitar-leggings-for-women">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Leggings are the hottest fashion trend right now and we're making them even hotter by adding guitars to them. We've added our first design to the store to make sure that our customers have what they need to fill out their rockin' wardrobe.</p>
+<p>We didn't want to add just any leggings to the store so we considered our options very carefully. Here are some of the reasons that we chose this particular product.</p>
+<p><span>Product Features</span></p>
+<ul>
+<li>82% polyester/18% spandex fabric blend</li>
+<li>Four-way (horizontal and vertical) stretch</li>
+<li>Comfortable and smooth microfiber yarn</li>
+<li>Elastic waistband</li>
+<li>White fabric lining (avoid embarrassing bend-over moments)</li>
+<li>All-over printing offers unlimited and unrestricted design possibilities</li>
+</ul>
+<p>Our first <a href="https://amplifiedapparel.com/collections/leggings/products/cupids-guitar-leggings" title="Guitar Leggings for Women">guitar leggings</a> design features a guitar-pierced heart on a dark grey background. It's completely original, of course, so you won't have to worry about running into a friend, co-worker, or perfect stranger with the same exact design ever again... unless these get <em>really</em> popular that is. We've also added a <a href="https://amplifiedapparel.com/collections/leggings/products/cupids-guitar-kids-leggings" title="Kids Guitar Leggings">kids leggings</a> version of this design for all of the little ones in your life.</p>
+<p> </p>
+<p>Drop us a line below and let us know what kind of guitar-inspired leggings designs you would like to see.</p>]]>
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'dccash';
+  font-style: normal;
+  font-weight: normal;
+  src: local('DCC-Ash'), url('DCC-Ash.otf') format('opentype');
+}

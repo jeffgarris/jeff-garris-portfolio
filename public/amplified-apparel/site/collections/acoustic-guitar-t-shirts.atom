@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://amplifiedapparel.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://amplifiedapparel.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://amplifiedapparel.com/collections/acoustic-guitar-t-shirts.atom"/>
+  <title>Amplified Apparel</title>
+  <updated>2016-11-26T21:48:00-05:00</updated>
+  <author>
+    <name>Amplified Apparel</name>
+  </author>
+  <entry>
+    <id>https://amplifiedapparel.com/products/9133372558</id>
+    <published>2016-11-26T21:48:00-05:00</published>
+    <updated>2016-11-26T21:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://amplifiedapparel.com/products/where-i-lay-my-guitar-is-home-t-shirt"/>
+    <title>Where I Lay My Guitar Is Home T-Shirt</title>
+    <s:type>T-Shirts</s:type>
+    <s:vendor>Printful</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0660/4893/products/where-i-lay-my-guitar-is-home.jpg?v=1480213981" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printful<br />
+        <strong>Type: </strong>T-Shirts<br />
+        <strong>Price: </strong>
+            24.99 - 26.99
+            <a href="https://amplifiedapparel.com/products/where-i-lay-my-guitar-is-home-t-shirt">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You feel completely lost without your guitar, don't you? And you also don't really care where you are as long as you have your trusty 6-string to keep you company. Well, you're not alone, that's exactly how many guitarists feel. Share that sentiment with the world with this guitar t-shirt.</p>
+<div class="men">
+<p class="brand-style"><strong>Men:</strong></p>
+<p class="brand-style">This design is printed on the <span>Anvil 980</span> Lightweight Fashion Short Sleeve T-Shirt</p>
+<div class="col-md-12 margin-bottom-20">
+<ul>
+<li>
+<p class="text-muted">100% ring-spun lightweight cotton</p>
+</li>
+<li>
+<p class="text-muted">Pre-shrunk</p>
+</li>
+<li>
+<p class="text-muted">Tubular construction</p>
+</li>
+<li>
+<p class="text-muted">Shoulder-to-shoulder tape</p>
+</li>
+<li>
+<p class="text-muted">Seamless collar</p>
+</li>
+<li>
+<p class="text-muted">Double-needle sleeve and bottom hem</p>
+</li>
+</ul>
+<p class="brand-style">This is a classic tee that has a light feel. Made of 100% ring-spun cotton (except for heather colors, which contain 10% polyester). </p>
+</div>
+</div>
+<div class="women">
+<p class="brand-style"><strong>Women:</strong></p>
+<p class="text-muted"> This design is printed on the <span>Anvil 391</span> Ladies Sheer Scoopneck T-Shirt</p>
+<div class="col-md-12 margin-left-25">
+<ul>
+<li>
+<p class="text-muted">3.2 oz., pre-shrunk 100% ringspun cotton</p>
+</li>
+<li>
+<p class="text-muted">Classic contoured silhouette with side seams</p>
+</li>
+<li>
+<p class="text-muted">Display tape</p>
+</li>
+<li>
+<p class="text-muted">Single-needle stitched seamed collarette</p>
+</li>
+<li>
+<p class="text-muted">Double-needle stitched sleeves and bottom hem</p>
+</li>
+<li>
+<p class="text-muted">TearAway™ label for easy relabeling</p>
+</li>
+</ul>
+</div>
+</div>
+<br>
+<p><strong>DESIGNED BY</strong> JEFF GARRIS (Owner)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acoustic guitar</s:tag>
+    <s:tag>electric guitar</s:tag>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/9133372558</id>
+      <title>Men / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/9133372558</id>
+      <title>Men / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10002</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/9133372558</id>
+      <title>Men / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10003</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/9133372558</id>
+      <title>Men / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10004</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/9133372558</id>
+      <title>Men / 2XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>10005</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/9133372558</id>
+      <title>Men / 3XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>10006</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/9133372558</id>
+      <title>Female / XS</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10007</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/9133372558</id>
+      <title>Female / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10008</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/9133372558</id>
+      <title>Female / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10009</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/9133372558</id>
+      <title>Female / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10010</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/9133372558</id>
+      <title>Female / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10011</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/9133372558</id>
+      <title>Female / 2XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>10012</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amplifiedapparel.com/products/5507668355</id>
+    <published>2016-02-28T16:36:00-05:00</published>
+    <updated>2016-02-28T16:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://amplifiedapparel.com/products/guitar-god-t-shirt"/>
+    <title>Guitar God T-Shirt</title>
+    <s:type>T-Shirts</s:type>
+    <s:vendor>Printful</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0660/4893/products/guitar-god-t-shirt.jpg?v=1505448426" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printful<br />
+        <strong>Type: </strong>T-Shirts<br />
+        <strong>Price: </strong>
+            24.99 - 26.99
+            <a href="https://amplifiedapparel.com/products/guitar-god-t-shirt">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>How dare they look you directly in the eyes, as if to suggest that you're equals. They are a mere mortal and you, a living god. Not only that, but a god among gods... a guitar god! Show those peons who'd boss with this Guitar God t-shirt.</span></p>
+<div class="men">
+<p class="brand-style"><strong>Men:</strong></p>
+<p class="brand-style">This design is printed on the <span>Anvil 980</span> Lightweight Fashion Short Sleeve T-Shirt</p>
+<div class="col-md-12 margin-bottom-20">
+<ul>
+<li>
+<p class="text-muted">100% ring-spun lightweight cotton</p>
+</li>
+<li>
+<p class="text-muted">Pre-shrunk</p>
+</li>
+<li>
+<p class="text-muted">Tubular construction</p>
+</li>
+<li>
+<p class="text-muted">Shoulder-to-shoulder tape</p>
+</li>
+<li>
+<p class="text-muted">Seamless collar</p>
+</li>
+<li>
+<p class="text-muted">Double-needle sleeve and bottom hem</p>
+</li>
+</ul>
+<p class="brand-style">This is a classic tee that has a light feel. Made of 100% ring-spun cotton (except for heather colors, which contain 10% polyester). </p>
+</div>
+</div>
+<div class="women">
+<p class="brand-style"><strong>Women:</strong></p>
+<p class="text-muted"> This design is printed on the <span>Anvil 391</span> Ladies Sheer Scoopneck T-Shirt</p>
+<div class="col-md-12 margin-left-25">
+<ul>
+<li>
+<p class="text-muted">3.2 oz., pre-shrunk 100% ringspun cotton</p>
+</li>
+<li>
+<p class="text-muted">Classic contoured silhouette with side seams</p>
+</li>
+<li>
+<p class="text-muted">Display tape</p>
+</li>
+<li>
+<p class="text-muted">Single-needle stitched seamed collarette</p>
+</li>
+<li>
+<p class="text-muted">Double-needle stitched sleeves and bottom hem</p>
+</li>
+<li>
+<p class="text-muted">TearAway™ label for easy relabeling</p>
+</li>
+</ul>
+</div>
+</div>
+<br>
+<p><strong>DESIGNED BY</strong> JEFF GARRIS (Owner)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acoustic guitar</s:tag>
+    <s:tag>electric guitar</s:tag>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507668355</id>
+      <title>Men / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507668355</id>
+      <title>Men / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10002</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507668355</id>
+      <title>Men / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10003</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507668355</id>
+      <title>Men / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10004</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507668355</id>
+      <title>Men / 2XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>10005</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507668355</id>
+      <title>Men / 3XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>10006</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507668355</id>
+      <title>Women / XS</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10007</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507668355</id>
+      <title>Women / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10008</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507668355</id>
+      <title>Women / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10009</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507668355</id>
+      <title>Women / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10010</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507668355</id>
+      <title>Women / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10011</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507668355</id>
+      <title>Women / 2XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>10012</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amplifiedapparel.com/products/5507177667</id>
+    <published>2016-02-28T16:00:00-05:00</published>
+    <updated>2016-02-28T16:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://amplifiedapparel.com/products/pick-it-pluck-it-strum-it-acoustic-guitar-t-shirt"/>
+    <title>Pick It Pluck It Strum It Acoustic Guitar T-Shirt</title>
+    <s:type>T-Shirts</s:type>
+    <s:vendor>Printful</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0660/4893/products/pick-it-pluck-it-strum-it-acoustic-guitar-t-shirt.jpg?v=1505447460" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printful<br />
+        <strong>Type: </strong>T-Shirts<br />
+        <strong>Price: </strong>
+            24.99 - 26.99
+            <a href="https://amplifiedapparel.com/products/pick-it-pluck-it-strum-it-acoustic-guitar-t-shirt">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>If you like to pick it, pluck it, and strum it... show it! Add this acoustic guitar t-shirt to your collection and you'll never leave people wondering where your passions lie.</span></p>
+<div class="men">
+<p class="brand-style"><strong>Men:</strong></p>
+<p class="brand-style">This design is printed on the <span>Anvil 980</span> Lightweight Fashion Short Sleeve T-Shirt</p>
+<div class="col-md-12 margin-bottom-20">
+<ul>
+<li>
+<p class="text-muted">100% ring-spun lightweight cotton</p>
+</li>
+<li>
+<p class="text-muted">Pre-shrunk</p>
+</li>
+<li>
+<p class="text-muted">Tubular construction</p>
+</li>
+<li>
+<p class="text-muted">Shoulder-to-shoulder tape</p>
+</li>
+<li>
+<p class="text-muted">Seamless collar</p>
+</li>
+<li>
+<p class="text-muted">Double-needle sleeve and bottom hem</p>
+</li>
+</ul>
+<p class="brand-style">This is a classic tee that has a light feel. Made of 100% ring-spun cotton (except for heather colors, which contain 10% polyester). </p>
+</div>
+</div>
+<div class="women">
+<p class="brand-style"><strong>Women:</strong></p>
+<p class="text-muted"> This design is printed on the <span>Anvil 391</span> Ladies Sheer Scoopneck T-Shirt</p>
+<div class="col-md-12 margin-left-25">
+<ul>
+<li>
+<p class="text-muted">3.2 oz., pre-shrunk 100% ringspun cotton</p>
+</li>
+<li>
+<p class="text-muted">Classic contoured silhouette with side seams</p>
+</li>
+<li>
+<p class="text-muted">Display tape</p>
+</li>
+<li>
+<p class="text-muted">Single-needle stitched seamed collarette</p>
+</li>
+<li>
+<p class="text-muted">Double-needle stitched sleeves and bottom hem</p>
+</li>
+<li>
+<p class="text-muted">TearAway™ label for easy relabeling</p>
+</li>
+</ul>
+</div>
+</div>
+<br>
+<p><strong>DESIGNED BY</strong> JEFF GARRIS (Owner)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acoustic guitar</s:tag>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507177667</id>
+      <title>Men / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507177667</id>
+      <title>Men / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10002</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507177667</id>
+      <title>Men / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10003</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507177667</id>
+      <title>Men / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10004</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507177667</id>
+      <title>Men / 2XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>10005</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507177667</id>
+      <title>Men / 3XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>10006</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507177667</id>
+      <title>Women / XS</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10007</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507177667</id>
+      <title>Women / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10008</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507177667</id>
+      <title>Women / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10009</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507177667</id>
+      <title>Women / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10010</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507177667</id>
+      <title>Women / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10011</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507177667</id>
+      <title>Women / 2XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>10012</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amplifiedapparel.com/products/5507024451</id>
+    <published>2016-02-28T15:41:00-05:00</published>
+    <updated>2016-02-28T15:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://amplifiedapparel.com/products/cut-your-damn-strings-guitar-t-shirt"/>
+    <title>Cut Your Damn Strings Guitar T-Shirt</title>
+    <s:type>T-Shirts</s:type>
+    <s:vendor>Printful</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0660/4893/products/cut-your-damn-strings-480x480.jpg?v=1487039140" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printful<br />
+        <strong>Type: </strong>T-Shirts<br />
+        <strong>Price: </strong>
+            24.99 - 26.99
+            <a href="https://amplifiedapparel.com/products/cut-your-damn-strings-guitar-t-shirt">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>You've seen it and you can't stand it. OK, let's face facts, you HATE IT! Let your t-shirt say what you and your guitar are thinking... cut your damn strings!</span></p>
+<div class="men">
+<p class="brand-style"><strong>Men:</strong></p>
+<p class="brand-style">This design is printed on the <span>Anvil 980</span> Lightweight Fashion Short Sleeve T-Shirt</p>
+<div class="col-md-12 margin-bottom-20">
+<ul>
+<li>
+<p class="text-muted">100% ring-spun lightweight cotton</p>
+</li>
+<li>
+<p class="text-muted">Pre-shrunk</p>
+</li>
+<li>
+<p class="text-muted">Tubular construction</p>
+</li>
+<li>
+<p class="text-muted">Shoulder-to-shoulder tape</p>
+</li>
+<li>
+<p class="text-muted">Seamless collar</p>
+</li>
+<li>
+<p class="text-muted">Double-needle sleeve and bottom hem</p>
+</li>
+</ul>
+<p class="brand-style">This is a classic tee that has a light feel. Made of 100% ring-spun cotton (except for heather colors, which contain 10% polyester). </p>
+</div>
+</div>
+<div class="women">
+<p class="brand-style"><strong>Women:</strong></p>
+<p class="text-muted"> This design is printed on the <span>Anvil 391</span> Ladies Sheer Scoopneck T-Shirt</p>
+<div class="col-md-12 margin-left-25">
+<ul>
+<li>
+<p class="text-muted">3.2 oz., pre-shrunk 100% ringspun cotton</p>
+</li>
+<li>
+<p class="text-muted">Classic contoured silhouette with side seams</p>
+</li>
+<li>
+<p class="text-muted">Display tape</p>
+</li>
+<li>
+<p class="text-muted">Single-needle stitched seamed collarette</p>
+</li>
+<li>
+<p class="text-muted">Double-needle stitched sleeves and bottom hem</p>
+</li>
+<li>
+<p class="text-muted">TearAway™ label for easy relabeling</p>
+</li>
+</ul>
+</div>
+</div>
+<br>
+<p><strong>DESIGNED BY</strong> JEFF GARRIS (Owner)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acoustic guitar</s:tag>
+    <s:tag>electric guitar</s:tag>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507024451</id>
+      <title>Men / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507024451</id>
+      <title>Men / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10002</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507024451</id>
+      <title>Men / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10003</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507024451</id>
+      <title>Men / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10004</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507024451</id>
+      <title>Men / 2XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>10005</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507024451</id>
+      <title>Men / 3XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>10006</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507024451</id>
+      <title>Women / XS</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10007</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507024451</id>
+      <title>Women / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10008</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507024451</id>
+      <title>Women / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10009</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507024451</id>
+      <title>Women / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10010</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507024451</id>
+      <title>Women / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10011</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5507024451</id>
+      <title>Women / 2XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>10012</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amplifiedapparel.com/products/4950689155</id>
+    <published>2016-01-26T08:55:00-05:00</published>
+    <updated>2016-01-26T08:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://amplifiedapparel.com/products/vintage-acoustic-guitar-t-shirt"/>
+    <title>Vintage Acoustic Guitar T-Shirt</title>
+    <s:type>T-Shirts</s:type>
+    <s:vendor>Printful</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0660/4893/products/vintage-acoustic-guitar-t-shirt.jpg?v=1505446151" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printful<br />
+        <strong>Type: </strong>T-Shirts<br />
+        <strong>Price: </strong>
+            24.99 - 26.99
+            <a href="https://amplifiedapparel.com/products/vintage-acoustic-guitar-t-shirt">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="brand-style">Sure, everybody loves a shiny new acoustic guitar with a clean, crisp, and bright sound... but every now and then a song or occasion calls for a down and dirty, well-seasoned 6-string. Wear one while you play one.</p>
+<div class="men">
+<p class="brand-style"><strong>Men:</strong></p>
+<p class="brand-style">This design is printed on the <span>Anvil 980</span> Lightweight Fashion Short Sleeve T-Shirt</p>
+<div class="col-md-12 margin-bottom-20">
+<ul>
+<li>
+<p class="text-muted">100% ring-spun lightweight cotton</p>
+</li>
+<li>
+<p class="text-muted">Pre-shrunk</p>
+</li>
+<li>
+<p class="text-muted">Tubular construction</p>
+</li>
+<li>
+<p class="text-muted">Shoulder-to-shoulder tape</p>
+</li>
+<li>
+<p class="text-muted">Seamless collar</p>
+</li>
+<li>
+<p class="text-muted">Double-needle sleeve and bottom hem</p>
+</li>
+</ul>
+<p class="brand-style">This is a classic tee that has a light feel. Made of 100% ring-spun cotton (except for heather colors, which contain 10% polyester). </p>
+</div>
+</div>
+<div class="women">
+<p class="brand-style"><strong>Women:</strong></p>
+<p class="text-muted"> This design is printed on the <span>Anvil 391</span> Ladies Sheer Scoopneck T-Shirt</p>
+<div class="col-md-12 margin-left-25">
+<ul>
+<li>
+<p class="text-muted">3.2 oz., pre-shrunk 100% ringspun cotton</p>
+</li>
+<li>
+<p class="text-muted">Classic contoured silhouette with side seams</p>
+</li>
+<li>
+<p class="text-muted">Display tape</p>
+</li>
+<li>
+<p class="text-muted">Single-needle stitched seamed collarette</p>
+</li>
+<li>
+<p class="text-muted">Double-needle stitched sleeves and bottom hem</p>
+</li>
+<li>
+<p class="text-muted">TearAway™ label for easy relabeling</p>
+</li>
+</ul>
+</div>
+</div>
+<br>
+<p><strong>DESIGNED BY</strong> JEFF GARRIS (Owner)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acoustic guitar</s:tag>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/4950689155</id>
+      <title>Men / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8675546</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/4950689155</id>
+      <title>Men / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6516181</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/4950689155</id>
+      <title>Men / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8969171</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/4950689155</id>
+      <title>Men / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>7730164</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/4950689155</id>
+      <title>Men / 2XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>1648657</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/4950689155</id>
+      <title>Men / 3XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>6534635</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/4950689155</id>
+      <title>Women / XS</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2295749</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/4950689155</id>
+      <title>Women / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>9604430</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/4950689155</id>
+      <title>Women / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6431378</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/4950689155</id>
+      <title>Women / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2164957</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/4950689155</id>
+      <title>Women / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6802694</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/4950689155</id>
+      <title>Women / 2XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>8586040</s:sku>
+      <s:grams>278</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://amplifiedapparel.com/products/5408154115</id>
+    <published>2014-12-30T18:33:00-05:00</published>
+    <updated>2014-12-30T18:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://amplifiedapparel.com/products/rock-star-eye-chart-guitar-t-shirt"/>
+    <title>Rock Star Eye Chart Guitar T-Shirt</title>
+    <s:type>T-Shirts</s:type>
+    <s:vendor>Printful</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0660/4893/products/rock-star-eye-chart-guitar-t-shirt.jpg?v=1505446256" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printful<br />
+        <strong>Type: </strong>T-Shirts<br />
+        <strong>Price: </strong>
+            24.99 - 26.99
+            <a href="https://amplifiedapparel.com/products/rock-star-eye-chart-guitar-t-shirt">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="brand-style">This Rock Star guitar t-shirt is definitely a conversation starter. If you've been trying to get someone's attention, this should do the trick. Oh yeah, and everyone will know that you're a rock star. Obviously.</p>
+<div class="men">
+<p class="brand-style"><strong>Men:</strong></p>
+<p class="brand-style">This design is printed on the <span>Anvil 980</span> Lightweight Fashion Short Sleeve T-Shirt</p>
+<div class="col-md-12 margin-bottom-20">
+<ul>
+<li>
+<p class="text-muted">100% ring-spun lightweight cotton</p>
+</li>
+<li>
+<p class="text-muted">Pre-shrunk</p>
+</li>
+<li>
+<p class="text-muted">Tubular construction</p>
+</li>
+<li>
+<p class="text-muted">Shoulder-to-shoulder tape</p>
+</li>
+<li>
+<p class="text-muted">Seamless collar</p>
+</li>
+<li>
+<p class="text-muted">Double-needle sleeve and bottom hem</p>
+</li>
+</ul>
+<p class="brand-style">This is a classic tee that has a light feel. Made of 100% ring-spun cotton (except for heather colors, which contain 10% polyester). </p>
+</div>
+</div>
+<div class="women">
+<p class="brand-style"><strong>Women:</strong></p>
+<p class="text-muted"> This design is printed on the <span>Anvil 391</span> Ladies Sheer Scoopneck T-Shirt</p>
+<div class="col-md-12 margin-left-25">
+<ul>
+<li>
+<p class="text-muted">3.2 oz., pre-shrunk 100% ringspun cotton</p>
+</li>
+<li>
+<p class="text-muted">Classic contoured silhouette with side seams</p>
+</li>
+<li>
+<p class="text-muted">Display tape</p>
+</li>
+<li>
+<p class="text-muted">Single-needle stitched seamed collarette</p>
+</li>
+<li>
+<p class="text-muted">Double-needle stitched sleeves and bottom hem</p>
+</li>
+<li>
+<p class="text-muted">TearAway™ label for easy relabeling</p>
+</li>
+</ul>
+</div>
+</div>
+<br>
+<p><strong>DESIGNED BY</strong> JEFF GARRIS (Owner)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acoustic guitar</s:tag>
+    <s:tag>electric guitar</s:tag>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5408154115</id>
+      <title>Men / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5408154115</id>
+      <title>Men / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10002</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5408154115</id>
+      <title>Men / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10003</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5408154115</id>
+      <title>Men / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10004</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5408154115</id>
+      <title>Men / 2XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>10005</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5408154115</id>
+      <title>Men / 3XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>10006</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5408154115</id>
+      <title>Women / XS</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>7966203</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5408154115</id>
+      <title>Women / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2929265</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5408154115</id>
+      <title>Women / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6732851</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5408154115</id>
+      <title>Women / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1564393</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5408154115</id>
+      <title>Women / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>6450630</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://amplifiedapparel.com/products/5408154115</id>
+      <title>Women / 2XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>9908875</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

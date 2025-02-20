@@ -1,0 +1,1 @@
+$('.social-icons a').attr('target', '_blank');

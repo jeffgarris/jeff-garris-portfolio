@@ -36,11 +36,17 @@ export default function Header() {
             bgcolor="bg-blue-500"
             href="/images/Jeff_Garris_Frontend_Developer_Resume.pdf"
           ></Button>
+          {/* <Button
+            text="LinkedIn"
+            target="_blank"
+            href="https://www.linkedin.com/in/jeffgarris"
+            bgcolor="bg-blue-600"
+          ></Button> */}
           <Button
             text="Github"
             target="_blank"
             href="https://github.com/jeffgarris"
-            bgcolor="bg-gray-600"
+            bgcolor="bg-gray-500"
           ></Button>
         </div>
       </div>

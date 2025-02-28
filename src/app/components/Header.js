@@ -33,8 +33,8 @@ export default function Header() {
           <Button
             text="Resume"
             target="_blank"
-            href="/images/jeff-garris-frontend-web-developer-resume.pdf"
             bgcolor="bg-blue-500"
+            href="/images/Jeff_Garris_Frontend_Developer_Resume.pdf"
           ></Button>
           <Button
             text="Github"

@@ -11,13 +11,14 @@ export default function Projects() {
       url: "https://listr-silk.vercel.app/",
       title: "Listr",
       description:
-        "A full-featured lists app that utilizes local storage and Kinde authentication.",
+        "A full-featured lists app that utilizes local storage and Kinde authentication - built in React.",
     },
     {
       image: wordCounter,
-      url: "https://codesandbox.io/p/sandbox/zen-meadow-5hx8vg",
+      url: "https://voice-over-script-studio-app.vercel.app",
       title: "Voice Over Script Studio",
-      description: "A voice over script word counter and analyzer.",
+      description:
+        "A voice over script word counter and analyzer built in Vue 3.",
     },
     {
       image: doodleGrid,

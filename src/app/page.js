@@ -22,13 +22,13 @@ import {
 
 const technologies = [
   { icon: FaJsSquare, color: "#F7DF1E", label: "JavaScript" },
-  { icon: SiJquery, color: "#0769AD", label: "jQuery" },
+  // { icon: SiJquery, color: "#0769AD", label: "jQuery" },
   { icon: FaHtml5, color: "#E34F26", label: "HTML5" },
   { icon: SiSass, color: "#CC6699", label: "SCSS" },
   { icon: FaReact, color: "#61DAFB", label: "React" },
+  { icon: FaVuejs, color: "#42B883", label: "Vue.js" },
   { icon: SiNextdotjs, color: "#FFFFFF", label: "Next.js" },
   { icon: SiTailwindcss, color: "#06B6D4", label: "Tailwind" },
-  { icon: FaVuejs, color: "#42B883", label: "Vue.js" },
   { icon: FaGitAlt, color: "#F05032", label: "Git" },
   { icon: SiVercel, color: "#FFFFFF", label: "Vercel" },
 ];

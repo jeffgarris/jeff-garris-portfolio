@@ -38,7 +38,7 @@ export default function Projects() {
 
   return (
     <section className="mt-12 sm:mt-20">
-      <Title title="it's not work if you love it" />
+      <Title title="The Projects" />
       <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 mt-4 sm:mt-8">
         {projects.map((project, i) => {
           const { image, url, title, description } = project;

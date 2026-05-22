@@ -1,9 +1,9 @@
 import Title from "./Title";
-import Image from "next/image"
-import ryderLogo from "@public/images/ryder-logo.png"
-import perficientDigitalLogo from "@public/images/perficient-digital-logo.png"
-import IgniteXDSLogo from "@public/images/ignite-xds-logo.png"
-import InterpollsLogo from "@public/images/interpolls-logo.png"
+import Image from "next/image";
+import ryderLogo from "@public/images/ryder-logo.png";
+import perficientDigitalLogo from "@public/images/perficient-digital-logo.png";
+import IgniteXDSLogo from "@public/images/ignite-xds-logo.png";
+import InterpollsLogo from "@public/images/interpolls-logo.png";
 
 export default function Jobs() {
   const jobs = [
@@ -63,7 +63,7 @@ export default function Jobs() {
 
   return (
     <section className="w-full mt-12 sm:mt-20">
-      <Title title="what has this guy been up to?" />
+      <Title title="The Experience" />
       <div className="mt-4 sm:mt-8 space-y-8">
         {jobs.map((job, i) => {
           const {
@@ -77,7 +77,12 @@ export default function Jobs() {
           return (
             <div key={i} className="bg-zinc-800 rounded-lg shadow-sm">
               <div className="p-9">
-                <Image src={image} quality={100} alt={company} className="w-auto h-8 mr-2 mb-2" />
+                <Image
+                  src={image}
+                  quality={100}
+                  alt={company}
+                  className="w-auto h-8 mr-2 mb-2"
+                />
                 <p className="text-lg font-semibold text-white">{timeframe}</p>
                 <p className="text-sm text-gray-300">{description}</p>
                 <p className="pt-6 text-md font-bold text-gray-100">{role}</p>

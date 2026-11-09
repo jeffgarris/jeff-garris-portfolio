@@ -23,8 +23,8 @@ export default function Header() {
       </div>
 
       <div>
-        <p className="py-4 text-gray-200 text-sm sm:text-lg">
-          Frontend Developer with 15+ years of experience building responsive,
+        <p className="py-4 text-gray-300 text-sm sm:text-lg">
+          Frontend Developer with 10+ years of experience building responsive,
           performant web applications. I care about clean component
           architecture, smooth user experiences, and code that's easy for the
           next person to work with. I do my best work in collaborative teams

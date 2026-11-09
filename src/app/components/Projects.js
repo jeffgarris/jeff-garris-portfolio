@@ -18,7 +18,7 @@ export default function Projects() {
       url: "https://voice-over-script-studio-app.vercel.app",
       title: "Voice Over Script Studio",
       description:
-        "A voice over script word counter and analyzer built in Vue 3.",
+        "A voice over script word counter and analyzer built in Vue.js.",
     },
     {
       image: doodleGrid,
@@ -38,8 +38,8 @@ export default function Projects() {
 
   return (
     <section className="mt-12 sm:mt-20">
-      <Title title="The Projects" />
-      <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 mt-4 sm:mt-8">
+      <Title title="Personal Projects" />
+      <div className="grid gap-8 sm:mt-4">
         {projects.map((project, i) => {
           const { image, url, title, description } = project;
           return (
@@ -50,17 +50,17 @@ export default function Projects() {
               rel="noopener noreferrer"
               className="transition duration-200 opacity-90 hover:opacity-100"
             >
-              <div className="border rounded-lg overflow-hidden h-[21rem] sm:h-72">
-                <div
-                  className="w-full h-56 sm:h-40 bg-cover bg-center"
-                  style={{ backgroundImage: `url(${image.src})` }}
-                ></div>
-                <div className="py-3 px-4">
-                  <h3 className="pb-3 text-lg font-semibold text-white">
+              <div className="overflow-hidden">
+                <div className="py-3">
+                  <h3 className="pb-3 text-2xl font-semibold text-white">
                     {title}
                   </h3>
-                  <p className="text-sm text-gray-400">{description}</p>
+                  <p className="text-lg text-gray-300">{description}</p>
                 </div>
+                <div
+                  className="w-full h-[30rem] bg-cover bg-center rounded"
+                  style={{ backgroundImage: `url(${image.src})` }}
+                ></div>
               </div>
             </a>
           );

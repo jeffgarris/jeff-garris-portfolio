@@ -32,22 +32,22 @@ export default function Header() {
         </p>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
           <Button
-            text="Resume"
-            target="_blank"
-            bgcolor="bg-blue-500"
-            href="/images/Jeff_Garris_Frontend_Developer_Resume.pdf"
-          ></Button>
-          {/* <Button
             text="LinkedIn"
             target="_blank"
-            href="https://www.linkedin.com/in/jeffgarris"
+            href="https://www.linkedin.com/in/jeff-garris/"
             bgcolor="bg-blue-600"
-          ></Button> */}
+          ></Button>
           <Button
             text="Github"
             target="_blank"
             href="https://github.com/jeffgarris"
             bgcolor="bg-gray-500"
+          ></Button>
+          <Button
+            text="Resume"
+            target="_blank"
+            bgcolor="bg-red-600"
+            href="/images/Jeff_Garris_Frontend_Developer_Resume.pdf"
           ></Button>
         </div>
       </div>

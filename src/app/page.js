@@ -1,5 +1,6 @@
 import Header from "./components/Header";
 import Technologies from "./components/Technologies";
+import Work from "./components/Work";
 import Projects from "./components/Projects";
 import Jobs from "./components/Jobs";
 import Footer from "./components/Footer";
@@ -39,6 +40,7 @@ export default function Home() {
       <main className="max-w-content mx-auto px-8 sm:px-4 py-8 font-sans">
         <Header />
         <Technologies technologies={technologies} />
+        <Work />
         <Projects />
         <Jobs />
       </main>

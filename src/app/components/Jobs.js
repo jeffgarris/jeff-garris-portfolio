@@ -1,5 +1,6 @@
 import Title from "./Title";
 import Image from "next/image";
+import codeLogo from "@public/images/code-logo.svg";
 import ryderLogo from "@public/images/ryder-logo.png";
 import perficientDigitalLogo from "@public/images/perficient-digital-logo.png";
 import IgniteXDSLogo from "@public/images/ignite-xds-logo.png";
@@ -7,6 +8,17 @@ import InterpollsLogo from "@public/images/interpolls-logo.png";
 
 export default function Jobs() {
   const jobs = [
+    {
+      image: codeLogo,
+      company: "Self-Employed",
+      timeframe: "December 2024 - Present",
+      description: "Various projects as provided",
+      role: "Independent Frontend Developer",
+      responsibilities: [
+        "Provided frontend development support for a local agency, contributing to client overflow projects using JavaScript, CSS, and HTML.",
+        "Built and refined personal projects to deepen hands-on experience with modern frontend tooling and best practices such as Vite, React, Tailwind CSS, and Vercel.",
+      ],
+    },
     {
       image: ryderLogo,
       company: "Ryder",

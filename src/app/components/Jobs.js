@@ -89,12 +89,14 @@ export default function Jobs() {
           return (
             <div key={i} className="bg-zinc-800 rounded-lg shadow-sm">
               <div className="p-9">
-                <Image
-                  src={image}
-                  quality={100}
-                  alt={company}
-                  className="w-auto h-8 mr-2 mb-2"
-                />
+                {image && (
+                  <Image
+                    src={image}
+                    quality={100}
+                    alt={company}
+                    className="w-auto h-8 mr-2 mb-2"
+                  />
+                )}
                 <p className="text-lg font-semibold text-white">{timeframe}</p>
                 <p className="text-sm text-gray-300">{description}</p>
                 <p className="pt-6 text-md font-bold text-gray-100">{role}</p>

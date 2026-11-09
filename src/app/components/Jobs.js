@@ -88,7 +88,7 @@ export default function Jobs() {
                 <p className="pt-6 text-md font-bold text-gray-100">{role}</p>
                 <ul>
                   {responsibilities.map((responsibility, i) => (
-                    <li key={i} className="pt-2 text-gray-300 list-none">
+                    <li key={i} className="pt-2 text-gray-300">
                       {responsibility}
                     </li>
                   ))}
